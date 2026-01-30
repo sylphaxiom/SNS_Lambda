@@ -1,4 +1,4 @@
-# SN_Incident_Create.py
+# SN_SNS_lambda.py
 
 Lambda script written in Python to accept SNS Topic alerts and create serviceNow
 tickets based off of the alert information. Querying ServiceNow to validate the
